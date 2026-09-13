@@ -4,6 +4,8 @@ I’m an **M.Sc. in Mechanical Engineering** ⚙️, with an academic specializa
 
 With many years of professional experience as developer, I’m currently attending a **German training program**, with the goal of becoming an **IHK-certified IT professional** and securing a good position in the IT field.
 
+**Visit my profile on [Linux Foundation](https://openprofile.dev/profile/mikelimauno)**
+
 ## 💻 A little bit about me
 
 My interest in programming began in the 2000s during my university studies, especially while working on numerical and computational problems. However, my inspiration goes back much further—to my childhood, when I enjoyed playing space-invasion games, pinball machines, and arcade games. Those experiences sparked my curiosity about computers and interactive entertainment.
